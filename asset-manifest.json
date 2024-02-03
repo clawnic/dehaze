@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dehaze/static/css/main.6494ab38.css",
+    "main.js": "/dehaze/static/js/main.953f74ad.js",
+    "static/js/592.8323f8e5.chunk.js": "/dehaze/static/js/592.8323f8e5.chunk.js",
+    "index.html": "/dehaze/index.html",
+    "main.6494ab38.css.map": "/dehaze/static/css/main.6494ab38.css.map",
+    "main.953f74ad.js.map": "/dehaze/static/js/main.953f74ad.js.map",
+    "592.8323f8e5.chunk.js.map": "/dehaze/static/js/592.8323f8e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6494ab38.css",
+    "static/js/main.953f74ad.js"
+  ]
+}
