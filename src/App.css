@@ -1,0 +1,20 @@
+.navbar-nav .nav-link.active {
+  color: black; /* Default color */
+}
+
+.navbar-nav .nav-link.active:hover {
+  color: white; /* Change text color to white on hover */
+}
+
+.navbar-nav .nav-link.active:hover {
+  background-color: #6c757d; /* Change background color to grey on hover */
+}
+
+.navbar-dark {
+  background-color: #333; /* Darker background color for the NavBar */
+}
+
+.navbar-dark:hover {
+  background-color: #555; /* Lighten the background color on hover */
+}
+
